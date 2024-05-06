@@ -39,10 +39,6 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory: `cd zerodha-clone`
 3. Open the `index.html` file in your preferred web browser.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
